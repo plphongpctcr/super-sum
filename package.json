@@ -1,8 +1,8 @@
 {
-    "name": "sum",
-    "version": "0.1.4",
+    "name": "super-sum",
+    "version": "1.0.1",
     "description": "text summarization utility",
-    "homepage": "https://github.com/topliceanu/sum",
+    "homepage": "https://github.com/plphongpctcr/super-sum",
     "license": "MIT",
     "keywords": [
         "summarization",
@@ -11,13 +11,13 @@
         "stop-words",
         "express"
     ],
-    "author": "alex.topliceanu <alexandru.topliceanu@gmail.com> (https://github.com/topliceanu)",
+    "author": "phongle",
     "repository": {
         "type": "git",
-        "url": "git://github.com/topliceanu/sum.git"
+        "url": "git://github.com/plphongpctcr/super-sum.git"
     },
     "bugs": {
-        "url": "https://github.com/topliceanu/sum/issues"
+        "url": "https://github.com/plphongpctcr/super-sum/issues"
     },
     "main": "./sum.js",
     "scripts": {
